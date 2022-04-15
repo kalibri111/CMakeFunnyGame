@@ -2,7 +2,7 @@
 
 int main() {
     std::cout << GetHelloWorld();
-    WordOne();
-    WordTwo();
+    foo();
+    bar();
     return  0;
 }

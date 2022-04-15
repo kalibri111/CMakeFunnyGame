@@ -1,8 +1,6 @@
-//
-// Created by Иван Лескин on 15/04/2022.
-//
+#pragma once
 
-#ifndef CMAKE_INDEX_H
-#define CMAKE_INDEX_H
+std::string GetHelloWorld() {
+    return "Hello, world!\n";
+}
 
-#endif //CMAKE_INDEX_H

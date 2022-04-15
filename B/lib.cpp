@@ -1,4 +1,6 @@
-//
-// Created by Иван Лескин on 15/04/2022.
-//
+#include "lib.h"
+#include <iostream>
 
+void foo() {
+    std::cout << "foo\n";
+}

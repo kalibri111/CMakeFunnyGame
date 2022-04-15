@@ -3,6 +3,6 @@
 
 #include <iostream>
 
-void WordTwo() {
-    std::cout << "word 2\n";
+void bar() {
+    std::cout << "bar\n";
 }
